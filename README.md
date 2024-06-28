@@ -1,9 +1,7 @@
-# Snap-It-MERN
+# Jumpy- social imageboard for anons
 
-## Visit Snap-It: https://snap-it-vaibhav.web.app/
-## Youtube Video: https://youtu.be/psdz7IJ4OCs
 
-### Snap-It is a social media app based on MERN stack having various features:
+### Features
 1) Create/Delete your account
 2) Post images in feed with hide likes/comments feature
 3) Like/comment on posts
@@ -12,6 +10,6 @@
 6) Chat with your friends
    and many more...
 
-### 📌 Technonologies used
+### Technonologies used
 Technologies used are react-js, node-js, express-js, mongodb, redux, firebase, axios, bcrypt, cors, jwt, mui, formik-yup, socket-io etc.
 
